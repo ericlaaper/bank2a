@@ -27,7 +27,7 @@ definePageMeta({
         </NuxtLink>
 
         <p class="mt-4 text-gray-700 text-sm sm:text-base">
-          Klik op het logo om verder te gaan.
+          Klik op het logo om verder te gaan
         </p>
       </div>
     </div>
