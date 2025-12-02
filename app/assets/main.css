@@ -1,0 +1,23 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+/*@tailwind utilities;*/
+
+.theme-light {
+  --background: #f8f8f8;
+
+  --text: #313131;
+}
+
+.theme-dark {
+  --background: #313131;
+
+  --text: #f8f8f8;
+}
+
+
+/**
+Apply formkit like styles to non formkit inputs
+this way it looks the same before and after we use formkit
+**/
+
