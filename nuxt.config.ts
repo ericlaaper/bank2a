@@ -15,7 +15,7 @@ export default defineNuxtConfig({
     '@nuxt/icon',
   ],
   site: {
-    url: 'https://fietsenmaker-muiden.nl',
+    url: 'https://bankapp3.netlify.app/',
     name: 'ZUID OOST Bank',
   },
   seo: {
